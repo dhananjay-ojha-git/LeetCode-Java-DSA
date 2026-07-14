@@ -6,6 +6,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
@@ -29,4 +30,8 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
