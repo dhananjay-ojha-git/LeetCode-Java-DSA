@@ -14,6 +14,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0088-merge-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0217-contains-duplicate) |
+| [2815-max-pair-sum-in-an-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/2815-max-pair-sum-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +45,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | ------- |
 | [0001-two-sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0217-contains-duplicate) |
+| [2815-max-pair-sum-in-an-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/2815-max-pair-sum-in-an-array) |
 ## Sorting
 |  |
 | ------- |
