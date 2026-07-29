@@ -11,6 +11,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0018-4sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0088-merge-sorted-array) |
@@ -79,4 +80,12 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0493-reverse-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
