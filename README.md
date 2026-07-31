@@ -7,6 +7,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
@@ -34,6 +35,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
@@ -91,4 +93,8 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0059-spiral-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
