@@ -19,6 +19,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0088-merge-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0217-contains-duplicate) |
 | [0493-reverse-pairs](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0493-reverse-pairs) |
 | [2815-max-pair-sum-in-an-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/2815-max-pair-sum-in-an-array) |
@@ -68,6 +69,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
