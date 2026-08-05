@@ -10,6 +10,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0011-container-with-most-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0053-maximum-subarray) |
@@ -43,6 +44,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0011-container-with-most-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0088-merge-sorted-array) |
