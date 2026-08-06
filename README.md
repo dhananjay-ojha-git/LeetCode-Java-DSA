@@ -19,6 +19,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0054-spiral-matrix](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,4 +126,8 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
