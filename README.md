@@ -12,6 +12,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0018-4sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0053-maximum-subarray) |
@@ -77,6 +78,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0493-reverse-pairs) |
