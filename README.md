@@ -29,6 +29,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0179-largest-number](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0493-reverse-pairs) |
 | [2815-max-pair-sum-in-an-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/2815-max-pair-sum-in-an-array) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
