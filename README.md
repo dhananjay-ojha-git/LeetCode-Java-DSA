@@ -31,6 +31,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0219-contains-duplicate-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0493-reverse-pairs) |
 | [2815-max-pair-sum-in-an-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/2815-max-pair-sum-in-an-array) |
 ## Divide and Conquer
