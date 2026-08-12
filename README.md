@@ -22,6 +22,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0057-insert-interval](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0118-pascals-triangle) |
@@ -73,6 +74,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0268-missing-number) |
@@ -117,6 +119,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
