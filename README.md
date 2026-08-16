@@ -35,6 +35,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0219-contains-duplicate-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0289-game-of-life) |
 | [0485-max-consecutive-ones](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -127,11 +128,13 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0054-spiral-matrix](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0289-game-of-life) |
 ## Greedy
 |  |
 | ------- |
