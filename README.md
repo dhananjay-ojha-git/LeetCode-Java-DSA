@@ -56,6 +56,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0198-house-robber) |
@@ -164,6 +165,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -193,4 +195,8 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
