@@ -18,6 +18,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0035-search-insert-position](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0057-insert-interval) |
@@ -134,6 +135,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -165,6 +167,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0268-missing-number) |
