@@ -38,6 +38,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 | [0217-contains-duplicate](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0289-game-of-life) |
@@ -168,6 +169,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0239-sliding-window-maximum) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +184,7 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0621-task-scheduler) |
 ## Counting
@@ -206,4 +209,16 @@ My personal journey mastering Data Structures and Algorithms using Java and Leet
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dhananjay-ojha-git/LeetCode-Java-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
